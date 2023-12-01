@@ -8,7 +8,7 @@ body {
 }
 
 .navbar-fixed {
-    @apply fixed z-[9999] backdrop-blur-sm shadow-sm;
+    @apply fixed z-[9999] backdrop-blur-sm shadow;
 }
 
 .hamburger-active > span:nth-child(1) {
